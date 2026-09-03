@@ -1,0 +1,5 @@
+- [x] Implement `setKeepOnScreenCondition` in `MainActivity.kt`
+- [x] Implement `setOnExitAnimationListener` for scale-up and fade-out transition
+- [x] Ensure data loading state is correctly reported to the Splash API
+- [x] Run Gradle Build to verify
+- [x] Verify `themes.xml` and `AndroidManifest.xml` (re-check)
